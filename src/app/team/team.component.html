@@ -1,0 +1,9 @@
+
+<div style="margin-top: 80px" >
+    <ul *ngFor="let Teames of Team">
+    
+    <li><img [src]="Teames.img" class="logo"><a [routerLink]="['/squad',Teames.name]" class="team_name">{{Teames.name}} </a></li>
+    </ul> 
+    
+    </div>
+    <router-outlet ></router-outlet>

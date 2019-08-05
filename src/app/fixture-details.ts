@@ -1,0 +1,40 @@
+import{Fixture} from './fixureType';
+
+export const Details : Fixture[]=[
+    {M_No:1,date:'May 30, Thu',match_details:'England vs South Africa',venue:'Kennington Oval, London',winner:'England won by 104 runs',time:'2:30 AM'},
+   
+    {M_No:2,date:'May 31, Fri',match_details:'West Indies vs Pakistan',venue:'Trent Bridge, Nottingham',winner:'West Indies won by 7 wkts',time:'2:30 AM'},
+    {M_No:3,date:'Jun 01, Sat',match_details:'New Zealand vs Sri Lanka',venue:' Sophia Gardens, Cardiff',winner:'New Zealand won by 10 wkts',time:'2:30 AM'},
+    {M_No:4,date:'Jun 01, Sat',match_details:'Afghanistan vs Australia',venue:'Kennington Oval, London',winner:'Australia won by 7 wkts',time:'2:30 AM'},
+    
+    {M_No:5,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:6,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:7,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:8,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:9,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:10,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:11,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:12,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:13,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:14,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:15,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:16,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:17,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:18,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:19,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:20,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:21,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:22,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:23,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:24,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:25,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:26,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:27,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:28,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:29,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:30,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:31,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:32,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    {M_No:33,date:'Jun 02, Sun',match_details:'Bangaladesh vs South Africa',venue:'Kennington Oval, London',winner:'Bangladesh won by 21 runs',time:'2:30 AM'},
+    
+];

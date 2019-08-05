@@ -1,0 +1,26 @@
+
+<table class="table table-striped" style="margin-top: 80px;">
+    <thead>
+      <tr>
+        <th>Match No</th>
+        <th>Date</th>
+        <th>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Details</th>
+        <th> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Venue</th>
+        <th> &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;Winner</th>
+        <th>Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let na of Fix_detail" >
+        <td style="padding-left: 30px;">{{na.M_No}}</td>
+        <td>{{na.date}}</td>
+        <td>{{na.match_details}}</td>
+        <td>{{na.venue}}</td>
+        <td>{{na.winner}}</td>
+        <td>{{na.time}}</td>
+  
+  
+  
+      </tr>
+    </tbody>
+  </table>
