@@ -38,6 +38,8 @@ export class SrilankaComponent implements OnInit {
     this.router.navigate(['england']);
     else if(id=='South Africa')
     this.router.navigate(['south-africa'])
+    else
+    this.router.navigate(['teames']);
   }
 
 }

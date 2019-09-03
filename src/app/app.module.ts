@@ -18,6 +18,8 @@ import { SouthAfricaComponent } from './team/south-africa/south-africa.component
 import { SrilankaComponent } from './team/srilanka/srilanka.component';
 import { Srilanka1Component } from './team/srilanka1/srilanka1.component';
 import { WestIndiesComponent } from './team/west-indies/west-indies.component';
+import { HomeComponent } from './home/home.component';
+import { NgImageSliderModule } from 'ng-image-slider';
 
 @NgModule({
   declarations: [
@@ -36,11 +38,14 @@ import { WestIndiesComponent } from './team/west-indies/west-indies.component';
     SouthAfricaComponent,
     SrilankaComponent,
     Srilanka1Component,
-    WestIndiesComponent
+    WestIndiesComponent,
+    HomeComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    NgImageSliderModule
+
   ],
   providers: [],
   bootstrap: [AppComponent]

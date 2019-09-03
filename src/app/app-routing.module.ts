@@ -14,9 +14,11 @@ import{SouthAfricaComponent} from './team/south-africa/south-africa.component';
 import {Srilanka1Component} from './team/srilanka1/srilanka1.component';
 import {AfganistanComponent} from './team/afganistan/afganistan.component';
 import {WestIndiesComponent} from './team/west-indies/west-indies.component'
+import { HomeComponent } from './home/home.component';
 
 
 const routes: Routes = [
+  {path:'home',component:HomeComponent},
   {path:'fixture',component:FixtureComponent},
   {path:'ground',component:GroundComponent},
   {path:'teams',component:TeamComponent,
@@ -35,7 +37,8 @@ const routes: Routes = [
   {path:'pakistan',component:PakistanComponent},
   {path:'afganistan',component:AfganistanComponent},
   {path:'england',component:EnglandComponent},
-  {path:'south-africa',component:SouthAfricaComponent}
+  {path:'south-africa',component:SouthAfricaComponent},
+  {path:'',redirectTo:'/home',pathMatch:'full'}
 
 ];
 
